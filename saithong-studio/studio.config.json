@@ -1,0 +1,253 @@
+{
+  "name": "SAITHONG STUDIO",
+  "siteUrl": "",
+  "verifiedContacts": {
+    "email": "",
+    "phone": "",
+    "facebook": "",
+    "line": "",
+    "instagram": "",
+    "youtube": "",
+    "tiktok": ""
+  },
+  "showreel": {
+    "file": "/assets/videos/studio-reel.mp4",
+    "poster": "/assets/images/reel.webp",
+    "description": {
+      "en": "A silent motion edit of the studio’s banner artwork, moving through character illustration, game art and designed spaces.",
+      "th": "ภาพนิ่งจากแบนเนอร์ของสตูดิโอที่นำมาเรียงจังหวะเป็นวิดีโอไม่มีเสียง พาชมภาพตัวละคร งานเกม และพื้นที่จัดแสดง"
+    },
+    "scenes": [
+      {
+        "en": "A dark-haired illustrated character and a softly lit rendered portrait share the frame.",
+        "th": "ตัวละครวาดผมเข้มและภาพบุคคลเรนเดอร์ในแสงนุ่มปรากฏในเฟรมเดียวกัน",
+        "time": "00:00"
+      },
+      {
+        "en": "Black-and-white comic linework gives way to a pencil and a sheet of storyboard panels.",
+        "th": "ภาพลายเส้นการ์ตูนขาวดำเชื่อมไปยังดินสอและแผ่นภาพสตอรีบอร์ด",
+        "time": "00:04"
+      },
+      {
+        "en": "Small pixel characters and a spacecraft introduce the game artwork.",
+        "th": "ตัวละครพิกเซลขนาดเล็กและยานอวกาศพาเข้าสู่ภาพเกมอาร์ต",
+        "time": "00:08"
+      },
+      {
+        "en": "An illuminated exhibition ring and a warm interior shift the focus to physical spaces.",
+        "th": "วงแหวนแสงของบูธจัดแสดงและห้องโทนอุ่นพาสายตาเข้าสู่พื้นที่จริง",
+        "time": "00:12"
+      },
+      {
+        "en": "A leaf-printed carton and orange-and-white packaging bring form and surface into focus.",
+        "th": "กล่องลายใบไม้และบรรจุภัณฑ์สีส้มขาวเผยรูปทรงและพื้นผิวของผลิตภัณฑ์",
+        "time": "00:16"
+      },
+      {
+        "en": "The studio mark appears within a collage of illustration, models and exhibition imagery.",
+        "th": "สัญลักษณ์สตูดิโอปรากฏท่ามกลางภาพคอลลาจของงานวาด โมเดล และพื้นที่จัดแสดง",
+        "time": "00:20"
+      }
+    ]
+  },
+  "categories": {
+    "illustration": {
+      "en": "Illustration",
+      "th": "ภาพประกอบ"
+    },
+    "digital": {
+      "en": "Game art",
+      "th": "เกมอาร์ต"
+    },
+    "spatial": {
+      "en": "Spatial design",
+      "th": "ออกแบบพื้นที่"
+    },
+    "design": {
+      "en": "Product & packaging",
+      "th": "ผลิตภัณฑ์และบรรจุภัณฑ์"
+    }
+  },
+  "projects": [
+    {
+      "slug": "character-studies",
+      "category": "illustration",
+      "title": {
+        "en": "Character studies",
+        "th": "การศึกษาตัวละคร"
+      },
+      "subtitle": {
+        "en": "Expression, silhouette and the character sheet",
+        "th": "สีหน้า ซิลูเอต และแผ่นออกแบบตัวละคร"
+      },
+      "description": {
+        "en": "A portrait invites us into a character’s world. The accompanying studies explore how clothing, colour and facial features carry that identity into other views.",
+        "th": "ภาพบุคคลพาเราเข้าสู่โลกของตัวละคร ภาพศึกษาที่จัดวางคู่กันชวนสำรวจว่าเสื้อผ้า สี และรายละเอียดบนใบหน้าบอกเล่าตัวตนของตัวละครในมุมต่าง ๆ อย่างไร"
+      },
+      "credit": {
+        "en": "Studio banner artwork",
+        "th": "ภาพจากแบนเนอร์สตูดิโอ"
+      },
+      "gallery": [
+        {
+          "file": "cover.webp",
+          "alt": {
+            "en": "Anime and rendered portraits beside each other",
+            "th": "ภาพตัวละครสไตล์อนิเมะและภาพเรนเดอร์วางคู่กัน"
+          }
+        },
+        {
+          "file": "detail.webp",
+          "alt": {
+            "en": "Character reference sheet showing costume and turning views",
+            "th": "แผ่นออกแบบตัวละครแสดงเครื่องแต่งกายและมุมมองต่าง ๆ"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "sequential-art",
+      "category": "illustration",
+      "title": {
+        "en": "Sequential storytelling",
+        "th": "เรื่องเล่าผ่านช่องภาพ"
+      },
+      "subtitle": {
+        "en": "Line, framing and rhythm",
+        "th": "เส้น กรอบภาพ และจังหวะการเล่า"
+      },
+      "description": {
+        "en": "Pencil lines and black-and-white panels make small shifts in expression easy to read. These details from the portfolio banner bring the storyboard and comic sides of the studio together.",
+        "th": "ลายเส้นดินสอและช่องการ์ตูนขาวดำช่วยให้เห็นอารมณ์ที่เปลี่ยนไปในแต่ละภาพ รายละเอียดจากแบนเนอร์ชุดนี้เชื่อมงานสตอรีบอร์ดเข้ากับงานการ์ตูนของสตูดิโอ"
+      },
+      "credit": {
+        "en": "Studio banner artwork",
+        "th": "ภาพจากแบนเนอร์สตูดิโอ"
+      },
+      "gallery": [
+        {
+          "file": "cover.webp",
+          "alt": {
+            "en": "A black-and-white comic portrait in a panel",
+            "th": "ภาพตัวละครขาวดำในช่องการ์ตูน"
+          }
+        },
+        {
+          "file": "detail.webp",
+          "alt": {
+            "en": "Storyboard panels with a pencil across the page",
+            "th": "ช่องภาพสตอรีบอร์ดและดินสอบนหน้ากระดาษ"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "pixel-worlds",
+      "category": "digital",
+      "title": {
+        "en": "Pixel worlds",
+        "th": "โลกพิกเซล"
+      },
+      "subtitle": {
+        "en": "Game art at a smaller scale",
+        "th": "โลกของเกมในขนาดพิกเซล"
+      },
+      "description": {
+        "en": "Compact characters and bright silhouettes give these game-art details their energy. At a small scale, a few well-placed pixels can describe a whole pose.",
+        "th": "ตัวละครขนาดเล็กและรูปทรงสีสดทำให้ภาพเกมชุดนี้ดูมีชีวิต ในพื้นที่จำกัด การวางพิกเซลเพียงไม่กี่จุดก็ถ่ายทอดท่าทางได้ชัดเจน"
+      },
+      "credit": {
+        "en": "Studio banner artwork",
+        "th": "ภาพจากแบนเนอร์สตูดิโอ"
+      },
+      "gallery": [
+        {
+          "file": "cover.webp",
+          "alt": {
+            "en": "A pixel spacecraft and a sword-bearing sprite",
+            "th": "ยานอวกาศพิกเซลและตัวละครถือดาบ"
+          }
+        },
+        {
+          "file": "detail.webp",
+          "alt": {
+            "en": "A pixel archer with a bow",
+            "th": "ตัวละครนักธนูสไตล์พิกเซลอาร์ต"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "spatial-design",
+      "category": "spatial",
+      "title": {
+        "en": "Exhibition & interior",
+        "th": "นิทรรศการและอินทีเรีย"
+      },
+      "subtitle": {
+        "en": "Designing a space around a display",
+        "th": "ออกแบบพื้นที่รอบจุดจัดแสดง"
+      },
+      "description": {
+        "en": "An illuminated ring defines the focal point of an exhibition booth. A second study brings the eye down to a warm interior, where light and furniture give the space a more intimate scale.",
+        "th": "วงแหวนแสงเป็นจุดนำสายตาของบูธจัดแสดง อีกภาพพาเข้าสู่พื้นที่ภายในโทนอุ่นที่แสงและเฟอร์นิเจอร์ช่วยสร้างบรรยากาศเป็นกันเอง"
+      },
+      "credit": {
+        "en": "Studio banner artwork",
+        "th": "ภาพจากแบนเนอร์สตูดิโอ"
+      },
+      "gallery": [
+        {
+          "file": "cover.webp",
+          "alt": {
+            "en": "Exhibition booth with an illuminated overhead ring",
+            "th": "บูธจัดแสดงที่มีวงแหวนแสงเหนือศีรษะ"
+          }
+        },
+        {
+          "file": "detail.webp",
+          "alt": {
+            "en": "Contemporary interior in warm light",
+            "th": "ภาพพื้นที่ภายในร่วมสมัยที่ใช้แสงโทนอุ่น"
+          }
+        }
+      ]
+    },
+    {
+      "slug": "packaging",
+      "category": "design",
+      "title": {
+        "en": "Packaging forms",
+        "th": "รูปทรงบรรจุภัณฑ์"
+      },
+      "subtitle": {
+        "en": "Shape, surface and presentation",
+        "th": "รูปทรง พื้นผิว และการจัดวาง"
+      },
+      "description": {
+        "en": "Two views explore how a package reads on display. Graphic marks, material contrast and the outline of the container share the work of communicating its identity.",
+        "th": "สองมุมมองชวนสำรวจว่าบรรจุภัณฑ์สื่อสารอย่างไรเมื่อวางจัดแสดง ทั้งกราฟิก ความต่างของวัสดุ และเส้นรอบรูปต่างช่วยกันบอกเล่าเอกลักษณ์ของชิ้นงาน"
+      },
+      "credit": {
+        "en": "Studio banner artwork",
+        "th": "ภาพจากแบนเนอร์สตูดิโอ"
+      },
+      "gallery": [
+        {
+          "file": "cover.webp",
+          "alt": {
+            "en": "Leaf-print carton and bottle",
+            "th": "กล่องลายใบไม้และขวดบรรจุภัณฑ์"
+          }
+        },
+        {
+          "file": "detail.webp",
+          "alt": {
+            "en": "Orange-and-white packaging with the studio mark",
+            "th": "บรรจุภัณฑ์สีส้มขาวพร้อมสัญลักษณ์สตูดิโอ"
+          }
+        }
+      ]
+    }
+  ]
+}

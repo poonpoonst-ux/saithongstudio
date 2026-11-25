@@ -1,0 +1,7 @@
+[build]
+  command = "node scripts/build.mjs"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "22"
+

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:4173/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/about/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/about/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/services/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/services/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/services/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/portfolio/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/showreel/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/showreel/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/showreel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/showreel/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/process/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/process/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/process/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/process/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/contact/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/contact/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/privacy/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/portfolio/character-studies/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/character-studies/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/character-studies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/character-studies/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/portfolio/sequential-art/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/sequential-art/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/sequential-art/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/sequential-art/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/portfolio/pixel-worlds/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/pixel-worlds/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/pixel-worlds/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/pixel-worlds/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/portfolio/spatial-design/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/spatial-design/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/spatial-design/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/spatial-design/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/portfolio/packaging/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/packaging/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/packaging/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/packaging/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/about/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/about/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/about/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/services/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/services/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/services/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/services/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/portfolio/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/showreel/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/showreel/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/showreel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/showreel/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/process/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/process/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/process/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/process/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/contact/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/contact/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/contact/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/contact/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/privacy/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/privacy/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/privacy/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/portfolio/character-studies/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/character-studies/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/character-studies/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/character-studies/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/portfolio/sequential-art/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/sequential-art/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/sequential-art/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/sequential-art/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/portfolio/pixel-worlds/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/pixel-worlds/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/pixel-worlds/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/pixel-worlds/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/portfolio/spatial-design/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/spatial-design/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/spatial-design/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/spatial-design/"/>
+  </url>
+  <url>
+    <loc>http://localhost:4173/th/portfolio/packaging/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4173/portfolio/packaging/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="http://localhost:4173/th/portfolio/packaging/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:4173/portfolio/packaging/"/>
+  </url>
+</urlset>
